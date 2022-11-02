@@ -1,0 +1,8 @@
+print("Hello there, welcome to the band name generator ")
+name = input("Please enter your name \n")
+print("Hello " + name + " , i am here to help generate a cool name for your music band")
+print("BUCKLE UP !!!!!!!!!!!")
+other_color = input("What's your favourite color ?  ")
+flower = input("Whats your favorite TV show ? ")
+print("I think you will prefer the name " + other_color + " " + flower)
+print("WOW ,,, You rock " + other_color + " " + flower +" !!!!!!!!!!!!!!!!!!!!")
